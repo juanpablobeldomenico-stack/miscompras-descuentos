@@ -75,7 +75,7 @@ export type State = {
   manual: Record<string, Record<string, ManualPrice>>; // storeId -> nombre normalizado -> precio
   history: string[]; // productos usados antes, para autocompletar
   channelPref: Exclude<Channel, 'ambos'>; // cómo compra: en el local u online (define qué descuentos aplican)
-  discountsSync?: { at: string; sources: SourceReport[] }; // última actualización de descuentos desde la web
+  discountsSync?: { at: string; sources: SourceReport[]; via?: 'servidor' | 'directo'; generatedAt?: string }; // última actualización de descuentos desde la web
   location?: { lat: number; lng: number; label: string };
 };
 
