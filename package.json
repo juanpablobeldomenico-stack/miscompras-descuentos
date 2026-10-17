@@ -1,0 +1,12 @@
+{
+  "name": "miscompras-descuentos",
+  "private": true,
+  "type": "module",
+  "description": "Baja los descuentos de las webs de los súper y los publica en docs/descuentos.json para la app Mis Compras.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "sync": "node scripts/sync-from-app.mjs",
+    "build": "node scripts/build.ts",
+    "test": "node --test \"src/*.test.ts\""
+  }
+}
