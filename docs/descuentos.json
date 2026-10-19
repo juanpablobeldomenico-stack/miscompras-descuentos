@@ -1,11 +1,11 @@
 {
  "version": 1,
- "generatedAt": "2026-10-18T23:14:25.796Z",
+ "generatedAt": "2026-10-19T08:55:18.949Z",
  "sources": [
   {
    "name": "Carrefour",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "name": "Personal Pay",
@@ -25,9 +25,24 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Jueves de Octubre. Descuento aplicado en el acto. Tope de devolución $10.000.  NO INCLUYE CARNICERÍA, FRUTAS, VERDURAS, ELECTROS, BAZAR, TEXTIL, OFERTÓN POR BU"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Mercado Pago",
+   "pct": 20,
+   "day": 1,
+   "cap": 0,
+   "min": 0,
+   "channel": "online",
+   "validUntil": "2026-10-19",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-10-19",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Lunes 19 de Octubre. Tope de devolución: $15.000"
   },
   {
    "chain": "carrefour",
@@ -40,7 +55,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los viernes de Octubre. ¡Sin Tope! NO INCLUYE CARNICERÍA, FRUTAS, VERDURAS, ELECTRO, BAZAR, TEXTIL, PRODUCTOS DE VENTA POR BULTO Y EN PACK FAMILIAR."
   },
@@ -55,7 +70,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Sábados y Domingos de Octubre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
   },
@@ -70,7 +85,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Sábados y Domingos de Octubre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
   },
@@ -85,7 +100,7 @@
    "validUntil": "2026-10-28",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Miércoles 14, 21 y 28 de Octubre. Adicional con todas las promociones. Tope de reintegro: $7.500"
   },
@@ -100,7 +115,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Lunes de Octubre. No incluye electro ni carnicería"
   },
@@ -115,7 +130,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando todos los Martes de Octubre. No incluye carnicería, huevos de gallina, ni electro."
   },
@@ -130,7 +145,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los lunes de Octubre. Tope de $15.000.  Exclusivo con tarjeta de crédito de Mercado Pago (física y QR)"
   },
@@ -145,7 +160,7 @@
    "validUntil": "2026-10-28",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Miércoles 14, 21 y 28 de Octubre. Acumulable con todas las promociones. Tope de reintegro: $10.000 por banco por mes. Mínimo de compra: $15.000."
   },
@@ -160,7 +175,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los jueves de Octubre. Exclusivo con dinero en cuenta. Mínimo de compra $15.000. Ver exclusiones en el legal"
   },
@@ -175,7 +190,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Programando la entrega de tu pedido para los días Miércoles de Octubre. Tope de devolución: $15.000. Según tu tarjeta o plan: de 20% a 25%."
   },
@@ -190,7 +205,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábados y Domingos de Octubre. Sin tope de reintegro"
   },
@@ -205,7 +220,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábados y Domingos de Octubre. Sin tope de reintegro"
   },
@@ -220,7 +235,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábados y Domingos de Octubre. Sin tope de reintegro"
   },
@@ -235,7 +250,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábados y Domingos de Octubre. Sin tope de reintegro"
   },
@@ -250,7 +265,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábados y Domingos de Octubre. Sin tope de reintegro"
   },
@@ -265,7 +280,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Octubre. ¡Sin Tope!"
   },
@@ -280,7 +295,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Octubre. ¡Sin Tope!"
   },
@@ -295,7 +310,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Octubre. ¡Sin Tope!"
   },
@@ -310,7 +325,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Octubre. ¡Sin Tope!"
   },
@@ -325,7 +340,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Octubre. ¡Sin Tope!"
   },
@@ -340,7 +355,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Octubre. ¡Sin Tope!"
   },
@@ -355,7 +370,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Válido en el mes de Octubre. Tope de descuento de $8000 por semana"
   },
@@ -370,7 +385,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay, Tarjeta Visa Personal Pay, NFC desde Pagar sin contacto en la app (Android). 1 vez por semana"
   },
@@ -385,7 +400,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
   },
@@ -400,7 +415,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
   },
@@ -415,7 +430,7 @@
    "validUntil": "2026-10-31",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
   }
