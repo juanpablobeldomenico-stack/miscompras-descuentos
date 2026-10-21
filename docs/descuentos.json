@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T08:36:42.700Z",
+ "generatedAt": "2026-10-21T14:30:29.104Z",
  "sources": [
   {
    "name": "Carrefour",
@@ -10,7 +10,7 @@
   {
    "name": "Personal Pay",
    "ok": true,
-   "count": 4
+   "count": 5
   }
  ],
  "discounts": [
@@ -418,6 +418,21 @@
    "verified": "2026-10-21",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
+  },
+  {
+   "chain": "coto",
+   "method": "Personal Pay",
+   "pct": 30,
+   "day": 4,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-10-31",
+   "auto": true,
+   "origin": "Personal Pay (oficial)",
+   "verified": "2026-10-21",
+   "source": "https://www.personal.com.ar/pay/beneficios",
+   "note": "NFC desde Pagar sin contacto en la app (Android)"
   }
  ]
 }
