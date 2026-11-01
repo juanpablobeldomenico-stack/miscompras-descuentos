@@ -1,11 +1,11 @@
 {
  "version": 1,
- "generatedAt": "2026-11-01T10:29:22.192Z",
+ "generatedAt": "2026-11-01T19:42:12.645Z",
  "sources": [
   {
    "name": "Carrefour",
    "ok": true,
-   "count": 14
+   "count": 20
   },
   {
    "name": "Personal Pay",
@@ -29,6 +29,96 @@
    "verified": "2026-11-01",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Jueves de Noviembre. Descuento aplicado en el acto. Tope de devolución $10.000. NO INCLUYE CARNICERÍA, FRUTAS, VERDURAS, ELECTROS, BAZAR, TEXTIL, OFERTÓN POR BUL"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Carrefour Banco",
+   "pct": 15,
+   "day": 5,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-11-30",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-01",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Viernes de Noviembre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Carrefour Banco",
+   "pct": 10,
+   "day": 0,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-11-30",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-01",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Todos los Sábados y Domingos de Noviembre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Carrefour Banco",
+   "pct": 10,
+   "day": 6,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-11-30",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-01",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Todos los Sábados y Domingos de Noviembre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Club La Nación",
+   "pct": 15,
+   "day": 1,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-11-30",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-01",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Lunes de Noviembre. No incluye electro ni carnicería"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Carrefour Banco",
+   "pct": 20,
+   "day": 2,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-11-30",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-01",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Todos los Martes de Noviembre. No incluye carnicería, huevos de gallina, ni electro."
+  },
+  {
+   "chain": "carrefour",
+   "method": "Mercado Pago",
+   "pct": 15,
+   "day": 4,
+   "cap": 0,
+   "min": 20000,
+   "channel": "tienda",
+   "validUntil": "2026-11-30",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-01",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Todos los jueves de Noviembre. Exclusivo con dinero en cuenta. Mínimo de compra $20.000. Ver exclusiones en el legal"
   },
   {
    "chain": "carrefour",
