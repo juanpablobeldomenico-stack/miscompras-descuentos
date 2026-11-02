@@ -1,11 +1,11 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T00:46:15.557Z",
+ "generatedAt": "2026-11-02T11:11:31.623Z",
  "sources": [
   {
    "name": "Carrefour",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "name": "Personal Pay",
@@ -26,9 +26,24 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Jueves de Noviembre. Descuento aplicado en el acto. Tope de devolución $10.000. NO INCLUYE CARNICERÍA, FRUTAS, VERDURAS, ELECTROS, BAZAR, TEXTIL, OFERTÓN POR BUL"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Mercado Pago",
+   "pct": 20,
+   "day": 1,
+   "cap": 0,
+   "min": 0,
+   "channel": "online",
+   "validUntil": "2026-11-02",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-02",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Lunes 02 de Noviembre. Tope de devolución: $15.000"
   },
   {
    "chain": "carrefour",
@@ -41,7 +56,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Viernes de Noviembre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
   },
@@ -56,7 +71,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Sábados y Domingos de Noviembre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
   },
@@ -71,7 +86,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Sábados y Domingos de Noviembre. Acumulable con todas las promos ¡Sin Tope!. Ver exclusiones en el legal"
   },
@@ -86,7 +101,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Lunes de Noviembre. No incluye electro ni carnicería"
   },
@@ -101,7 +116,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los Martes de Noviembre. No incluye carnicería, huevos de gallina, ni electro."
   },
@@ -116,7 +131,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Todos los jueves de Noviembre. Exclusivo con dinero en cuenta. Mínimo de compra $20.000. Ver exclusiones en el legal"
   },
@@ -131,7 +146,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Programando la entrega de tu pedido para los días Miércoles de Noviembre. Tope de devolución: $15.000. Según tu tarjeta o plan: de 20% a 35%."
   },
@@ -146,7 +161,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
   },
@@ -161,7 +176,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
   },
@@ -176,7 +191,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
   },
@@ -191,7 +206,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
   },
@@ -206,7 +221,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
   },
@@ -221,7 +236,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Jueves de Noviembre. Tope de descuento de $8000 por semana"
   },
@@ -236,7 +251,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Noviembre. ¡Sin Tope!"
   },
@@ -251,7 +266,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Noviembre. ¡Sin Tope!"
   },
@@ -266,7 +281,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Noviembre. ¡Sin Tope!"
   },
@@ -281,7 +296,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Noviembre. ¡Sin Tope!"
   },
@@ -296,7 +311,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Noviembre. ¡Sin Tope!"
   },
@@ -311,7 +326,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Carrefour (oficial)",
-   "verified": "2026-11-01",
+   "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Martes a Domingo de Noviembre. ¡Sin Tope!"
   },
