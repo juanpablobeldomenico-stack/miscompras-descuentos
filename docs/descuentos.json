@@ -1,11 +1,11 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T11:11:31.623Z",
+ "generatedAt": "2026-11-02T23:07:21.144Z",
  "sources": [
   {
    "name": "Carrefour",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "name": "Personal Pay",
@@ -44,6 +44,21 @@
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Lunes 02 de Noviembre. Tope de devolución: $15.000"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Carrefour Banco",
+   "pct": 10,
+   "day": -1,
+   "cap": 0,
+   "min": 0,
+   "channel": "online",
+   "validUntil": "2026-11-08",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-02",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto"
   },
   {
    "chain": "carrefour",
@@ -153,77 +168,77 @@
   {
    "chain": "carrefour",
    "method": "Carrefour Banco",
-   "pct": 15,
+   "pct": 10,
    "day": 0,
    "cap": 0,
    "min": 0,
    "channel": "online",
-   "validUntil": "2026-11-30",
+   "validUntil": "2026-11-08",
    "auto": true,
    "origin": "Carrefour (oficial)",
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
-   "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto. Según tu tarjeta o plan: de 10% a 15%."
   },
   {
    "chain": "carrefour",
    "method": "Carrefour Banco",
-   "pct": 15,
+   "pct": 10,
    "day": 1,
    "cap": 0,
    "min": 0,
    "channel": "online",
-   "validUntil": "2026-11-30",
+   "validUntil": "2026-11-08",
    "auto": true,
    "origin": "Carrefour (oficial)",
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
-   "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto. Según tu tarjeta o plan: de 10% a 15%."
   },
   {
    "chain": "carrefour",
    "method": "Carrefour Banco",
-   "pct": 15,
+   "pct": 10,
    "day": 3,
    "cap": 0,
    "min": 0,
    "channel": "online",
-   "validUntil": "2026-11-30",
+   "validUntil": "2026-11-08",
    "auto": true,
    "origin": "Carrefour (oficial)",
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
-   "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto. Según tu tarjeta o plan: de 10% a 15%."
   },
   {
    "chain": "carrefour",
    "method": "Carrefour Banco",
-   "pct": 15,
+   "pct": 10,
    "day": 5,
    "cap": 0,
    "min": 0,
    "channel": "online",
-   "validUntil": "2026-11-30",
+   "validUntil": "2026-11-08",
    "auto": true,
    "origin": "Carrefour (oficial)",
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
-   "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto. Según tu tarjeta o plan: de 10% a 15%."
   },
   {
    "chain": "carrefour",
    "method": "Carrefour Banco",
-   "pct": 15,
+   "pct": 10,
    "day": 6,
    "cap": 0,
    "min": 0,
    "channel": "online",
-   "validUntil": "2026-11-30",
+   "validUntil": "2026-11-08",
    "auto": true,
    "origin": "Carrefour (oficial)",
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
-   "note": "Comprando los días Lunes, Miércoles, Viernes, Sábado y Domingos de Noviembre. Sin tope de reintegro"
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto. Según tu tarjeta o plan: de 10% a 15%."
   },
   {
    "chain": "carrefour",
@@ -239,6 +254,21 @@
    "verified": "2026-11-02",
    "source": "https://www.carrefour.com.ar/descuentos-bancarios",
    "note": "Jueves de Noviembre. Tope de descuento de $8000 por semana"
+  },
+  {
+   "chain": "carrefour",
+   "method": "Carrefour Banco",
+   "pct": 10,
+   "day": 2,
+   "cap": 0,
+   "min": 0,
+   "channel": "online",
+   "validUntil": "2026-11-08",
+   "auto": true,
+   "origin": "Carrefour (oficial)",
+   "verified": "2026-11-02",
+   "source": "https://www.carrefour.com.ar/descuentos-bancarios",
+   "note": "Desde el Lunes 02 de Noviembre al Domingo 08 de Noviembre. Descuento aplicado en el acto"
   },
   {
    "chain": "carrefour",
