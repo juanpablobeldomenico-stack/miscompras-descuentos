@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-06T10:55:34.713Z",
+ "generatedAt": "2026-11-06T20:54:41.400Z",
  "sources": [
   {
    "name": "Carrefour",
@@ -9,9 +9,8 @@
   },
   {
    "name": "Personal Pay",
-   "ok": false,
-   "count": 5,
-   "error": "resultado sospechosamente bajo"
+   "ok": true,
+   "count": 4
   }
  ],
  "discounts": [
@@ -356,7 +355,7 @@
    "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-31",
+   "verified": "2026-11-06",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay, Tarjeta Visa Personal Pay, NFC desde Pagar sin contacto en la app (Android). 1 vez por semana"
   },
@@ -368,10 +367,10 @@
    "cap": 0,
    "min": 0,
    "channel": "ambos",
-   "validUntil": "2026-10-31",
+   "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-31",
+   "verified": "2026-11-06",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
   },
@@ -383,10 +382,10 @@
    "cap": 0,
    "min": 0,
    "channel": "ambos",
-   "validUntil": "2026-10-31",
+   "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-31",
+   "verified": "2026-11-06",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
   },
@@ -398,27 +397,12 @@
    "cap": 0,
    "min": 0,
    "channel": "ambos",
-   "validUntil": "2026-10-31",
+   "validUntil": "2026-11-30",
    "auto": true,
    "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-31",
+   "verified": "2026-11-06",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
-  },
-  {
-   "chain": "coto",
-   "method": "Personal Pay",
-   "pct": 30,
-   "day": 4,
-   "cap": 0,
-   "min": 0,
-   "channel": "ambos",
-   "validUntil": "2026-10-31",
-   "auto": true,
-   "origin": "Personal Pay (oficial)",
-   "verified": "2026-10-31",
-   "source": "https://www.personal.com.ar/pay/beneficios",
-   "note": "NFC desde Pagar sin contacto en la app (Android)"
   }
  ]
 }
