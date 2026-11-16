@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T11:23:01.128Z",
+ "generatedAt": "2026-11-16T23:45:04.692Z",
  "sources": [
   {
    "name": "Carrefour",
@@ -10,7 +10,7 @@
   {
    "name": "Personal Pay",
    "ok": true,
-   "count": 4
+   "count": 5
   }
  ],
  "discounts": [
@@ -388,6 +388,21 @@
    "verified": "2026-11-16",
    "source": "https://www.personal.com.ar/pay/beneficios",
    "note": "Cualquier QR escaneado desde Personal Pay"
+  },
+  {
+   "chain": "coto",
+   "method": "Personal Pay",
+   "pct": 25,
+   "day": 2,
+   "cap": 0,
+   "min": 0,
+   "channel": "ambos",
+   "validUntil": "2026-12-31",
+   "auto": true,
+   "origin": "Personal Pay (oficial)",
+   "verified": "2026-11-16",
+   "source": "https://www.personal.com.ar/pay/beneficios",
+   "note": "Tarjeta Visa Personal Pay"
   }
  ]
 }
